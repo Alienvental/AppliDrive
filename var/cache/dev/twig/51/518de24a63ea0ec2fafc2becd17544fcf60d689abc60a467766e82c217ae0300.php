@@ -760,6 +760,6 @@ class __TwigTemplate_c68924e09cc74b3d6c384774030f728e818938eba9605b0ca5a55713084
         </div>
     {% endfor %}
 {% endblock %}
-", "@WebProfiler/Collector/mailer.html.twig", "C:\\Users\\hugok\\Desktop\\appli_drive\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\mailer.html.twig");
+", "@WebProfiler/Collector/mailer.html.twig", "C:\\Users\\User1\\Documents\\Projet AppliDrive\\AppliDrive\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\mailer.html.twig");
     }
 }

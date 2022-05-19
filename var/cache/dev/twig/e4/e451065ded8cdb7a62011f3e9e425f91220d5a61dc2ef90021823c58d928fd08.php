@@ -171,6 +171,6 @@ class __TwigTemplate_c3b9ab1c849a0ac6a8eeeb17a71d251fe963714f15b81dfb1a3cd4f0af4
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "C:\\Users\\hugok\\Desktop\\appli_drive\\vendor\\doctrine\\doctrine-bundle\\Resources\\views\\Collector\\explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "C:\\Users\\User1\\Documents\\Projet AppliDrive\\AppliDrive\\vendor\\doctrine\\doctrine-bundle\\Resources\\views\\Collector\\explain.html.twig");
     }
 }

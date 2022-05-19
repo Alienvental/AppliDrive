@@ -482,6 +482,6 @@ class __TwigTemplate_4a9d682f8bc9a2c5c234d12ff4dbdad6c522047543e6e7530ae0c5dd902
         {% endfor %}
     </table>
 {% endmacro %}
-", "@WebProfiler/Collector/events.html.twig", "C:\\Users\\hugok\\Desktop\\appli_drive\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\events.html.twig");
+", "@WebProfiler/Collector/events.html.twig", "C:\\Users\\User1\\Documents\\Projet AppliDrive\\AppliDrive\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\events.html.twig");
     }
 }
